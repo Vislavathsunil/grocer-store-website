@@ -1,23 +1,6 @@
-<h1 align="center"> Grocery React</h1>
+# Grocery Store 
 
-<p float="left">
-  <img src="./src/Demoimages/01.png"  width = 45%/>
-  <img src="./src/Demoimages/02.png"  width = 45%/>
-  <img src="./src/Demoimages/03.png"  width = 45%/>
-  <img src="./src/Demoimages/04.png"  width = 45%/>
-  <img src="./src/Demoimages/05.png"  width = 45%/>
-  <img src="./src/Demoimages/06.png"  width = 45%/>
-  <img src="./src/Demoimages/07.png"  width = 45%/>
-  <img src="./src/Demoimages/08.png"  width = 45%/>
-  <img src="./src/Demoimages/09.png"  width = 45%/>
-  <img src="./src/Demoimages/10.png"  width = 45%/>
-  <img src="./src/Demoimages/11.png"  width = 45%/>
-  <img src="./src/Demoimages/12.png"  width = 45%/>
-  <img src="./src/Demoimages/13.png"  width = 45%/>
-  <!-- <img src="."  width = 45%/>
-  <img src="."  width = 45%/>
-  <img src="."  width = 45%/> -->
-</p>
+
 
 
 <div class="theme-description">
@@ -52,7 +35,30 @@
 <li>Order Details</li>
 <li>Account Settings</li>
 <li>Payment Settings</li>
-<li>Address</li>
+<li>Address</li> <br><br>
+
+
+## Preview Images
+<p float="left">
+  <img src="./src/Demoimages/01.png"  width = 45%/>
+  <img src="./src/Demoimages/02.png"  width = 45%/>
+  <img src="./src/Demoimages/03.png"  width = 45%/>
+  <img src="./src/Demoimages/04.png"  width = 45%/>
+  <img src="./src/Demoimages/05.png"  width = 45%/>
+  <img src="./src/Demoimages/06.png"  width = 45%/>
+  <img src="./src/Demoimages/07.png"  width = 45%/>
+  <img src="./src/Demoimages/08.png"  width = 45%/>
+  <img src="./src/Demoimages/09.png"  width = 45%/>
+  <img src="./src/Demoimages/10.png"  width = 45%/>
+  <img src="./src/Demoimages/11.png"  width = 45%/>
+  <img src="./src/Demoimages/12.png"  width = 45%/>
+  <img src="./src/Demoimages/13.png"  width = 45%/>
+  <!-- <img src="."  width = 45%/>
+  <img src="."  width = 45%/>
+  <img src="."  width = 45%/> -->
+</p>
+
+ 
 <li>Notification</li>
 </ul>
 </li>
