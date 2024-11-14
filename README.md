@@ -35,7 +35,15 @@
 <li>Order Details</li>
 <li>Account Settings</li>
 <li>Payment Settings</li>
-<li>Address</li> <br><br>
+<li>Address</li>
+<li>Notification</li>
+</ul>
+</li>
+<li>Cross-browser compatibility</li>
+<li>Fully responsive</li>
+<li>W3C valid code</li>
+<li>Well Documented.</li>
+</ul> <br><br>
 
 
 ## Preview Images
@@ -58,12 +66,12 @@
   <img src="."  width = 45%/> -->
 </p>
 
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vislavathsunil.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil2004/) 
+## Authors
+
+- [@vislavathsunil](https://github.com/Vislavathsunil)
  
-<li>Notification</li>
-</ul>
-</li>
-<li>Cross-browser compatibility</li>
-<li>Fully responsive</li>
-<li>W3C valid code</li>
-<li>Well Documented.</li>
-</ul>
+ 
